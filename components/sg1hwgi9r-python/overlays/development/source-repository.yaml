@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sg1hwgi9r-python-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/sg1hwgi9r-python
